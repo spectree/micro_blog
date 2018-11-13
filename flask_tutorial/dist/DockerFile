@@ -17,6 +17,10 @@ RUN pip3 install ./dist/flaskr-1.0.0-py3-none-any.whl
 # Make port 5000 available to the world outside this container
 EXPOSE 5000
 
+# Python3 is configured to use ASCII
+CMD ["export", "LC_ALL=C.UTF-8"]
+CMD ["export", "LANG=C.UTF-8"]
+
 # set environment variables
 CMD ["export", "FLASK_APP=flaskr"]
 
