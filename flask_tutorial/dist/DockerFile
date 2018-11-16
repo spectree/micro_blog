@@ -23,9 +23,9 @@ ENV LANG C.UTF-8
 
 # set flask environment variable
 ENV FLASK_APP flaskr
-
+ENV FLASK_ENV development
 # setup database
-CMD ["flask", "init-db"]
+RUN flask init-db
 
 # run the server
 CMD ["flask", "run", "--host=0.0.0.0"]

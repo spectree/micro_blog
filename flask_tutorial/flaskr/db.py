@@ -1,4 +1,4 @@
-import sqlite3
+import MySQLdb
 
 import click
 from flask import current_app, g
