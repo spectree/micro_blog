@@ -6,6 +6,7 @@ What is included:
 
 * Flask Micro Blog app, not separated into microservices for ease of testing
 * A WHL file for app distribution
+* Helm charts for package installation
 
 ## Getting Started
 
@@ -23,7 +24,7 @@ Software needed:
 * Helm
 
 ### Usage
-
+First clone the repository into a local directory. 
 
 
 ## Built With
