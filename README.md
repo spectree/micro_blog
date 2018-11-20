@@ -35,7 +35,6 @@ First clone the repository into a local directory.
 
 ## Authors
 
-* **Vinh Nguyen** - Vinh.Nguyen38@T-Mobile.com
-
+* **Vinh Nguyen**
 
 
