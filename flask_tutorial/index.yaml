@@ -8,6 +8,6 @@ entries:
     digest: 03ab31c614347ce553f97def798283a6bb296e320d8091aab5bdca4df645ec20
     name: flaskr-chart
     urls:
-    - https://vinhnguyen500.github.io/micro_blog/flaskr-chart-0.1.0.tgz
+    - https://vinhnguyen500.github.io/micro_blog/flask_tutorial_flaskr-chart-0.1.0.tgz
     version: 0.1.0
 generated: 2018-11-30T10:13:58.2108119-08:00
