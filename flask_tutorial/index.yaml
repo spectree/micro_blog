@@ -3,11 +3,11 @@ entries:
   flaskr-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-30T10:13:58.2113122-08:00
+    created: 2018-11-30T11:48:32.8584464-08:00
     description: A Helm chart for Kubernetes
     digest: 03ab31c614347ce553f97def798283a6bb296e320d8091aab5bdca4df645ec20
     name: flaskr-chart
     urls:
     - https://vinhnguyen500.github.io/micro_blog/flask_tutorial/flaskr-chart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-11-30T10:13:58.2108119-08:00
+generated: 2018-11-30T11:48:32.8569725-08:00
